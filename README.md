@@ -1,5 +1,11 @@
 # alfred-nintendo-switch-price-compare
 
+[![NPM version](https://badge.fury.io/js/alfred-nintendo-switch-price-compare.svg)](http://badge.fury.io/js/alfred-nintendo-switch-price-compare)
+[![npm download total](https://img.shields.io/npm/dt/alfred-nintendo-switch-price-compare)](https://www.npmjs.com/package/alfred-nintendo-switch-price-compare)
+[![license](https://img.shields.io/github/license/jopemachine/alfred-nintendo-switch-price-compare.svg)](https://github.com/jopemachine/alfred-nintendo-switch-price-compare/blob/master/LICENSE)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![GitHub issues](https://img.shields.io/github/issues/jopemachine/alfred-nintendo-switch-price-compare.svg)](https://GitHub.com/jopemachine/alfred-nintendo-switch-price-compare/issues/)
+
 Compare Nintendo Switch game prices by country through https://eshop-prices.com/
 
 ![](./demo1.png)
