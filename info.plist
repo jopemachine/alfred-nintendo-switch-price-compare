@@ -11,10 +11,10 @@
 
 This workflow is converted by arvis-to-alfred.</string>
 		<key>version</key>
-		<string>0.1.0</string>
+		<string>0.1.2</string>
 		<key>variables</key>
 		<dict>
-			<key>currency</key>
+			<key>countryCode</key>
 			<string>EN</string>
 		</dict>
 		<key>bundleid</key>
