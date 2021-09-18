@@ -11,11 +11,11 @@
 
 This workflow is converted by arvis-to-alfred.</string>
 		<key>version</key>
-		<string>0.1.2</string>
+		<string>0.1.4</string>
 		<key>variables</key>
 		<dict>
 			<key>currency</key>
-			<string>EN</string>
+			<string>USD</string>
 		</dict>
 		<key>bundleid</key>
 		<string>jopemachine.arvis-nintendo-switch-price-compare</string>

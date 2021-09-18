@@ -1,6 +1,6 @@
 {
   "name": "alfred-nintendo-switch-price-compare",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Compare Nintendo Switch game prices by country through https://eshop-prices.com/",
   "main": "index.js",
   "scripts": {
