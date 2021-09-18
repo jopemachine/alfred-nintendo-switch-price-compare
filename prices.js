@@ -2,7 +2,7 @@
 const cheerio = require('cheerio');
 const got = require('got');
 
-const priceAPI = `https://eshop-prices.com/{query}?currency=${process.env.countryCode}`;
+const priceAPI = `https://eshop-prices.com/{query}?currency=${process.env.currency}`;
 
 got(priceAPI.replace('{query}', alfy.input), {
     headers: {

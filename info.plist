@@ -14,7 +14,7 @@ This workflow is converted by arvis-to-alfred.</string>
 		<string>0.1.2</string>
 		<key>variables</key>
 		<dict>
-			<key>countryCode</key>
+			<key>currency</key>
 			<string>EN</string>
 		</dict>
 		<key>bundleid</key>
