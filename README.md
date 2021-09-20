@@ -27,7 +27,7 @@ Possible `currency` values are as follows.
 
 Default value: `USD`.
 
-| Currency value        | Country               | Currency unit |
+| Currency value        | Description               | Currency unit |
 |:--------------:|:-----------------------:|:------:|
 | ARS          | Argentine Peso        | $    |
 | AUD          | Australian Dollar     | $    |
